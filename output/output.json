@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": {
+      "role": "HR professional"
+    },
+    "job_to_be_done": {
+      "task": "Create and manage fillable forms for onboarding and compliance."
+    },
+    "timestamp": "2025-07-25T18:54:19.510769"
+  },
+  "extracted_sections": [
+    {
+      "text": "Change flat forms to fillable (Acrobat Pro)",
+      "page": 12,
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "importance_rank": 1
+    },
+    {
+      "text": "Is the form fillable?",
+      "page": 8,
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "importance_rank": 2
+    },
+    {
+      "text": "Fill and Sign PDF Forms",
+      "page": 1,
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "importance_rank": 3
+    },
+    {
+      "text": "Fill and sign PDF forms",
+      "page": 2,
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "importance_rank": 4
+    },
+    {
+      "text": "Not all forms are fillable. Sometimes form creators don\u2019t convert their PDFs to",
+      "page": 8,
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "importance_rank": 5
+    },
+    {
+      "text": "Auto-Complete forms (interactive forms",
+      "page": 10,
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "importance_rank": 6
+    },
+    {
+      "text": "Create a PDF and send it for review",
+      "page": 19,
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "importance_rank": 7
+    },
+    {
+      "text": "Professional Tip: Clear Instructions",
+      "page": 2,
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "importance_rank": 8
+    },
+    {
+      "text": "To remove a file from the Collection, select  View and manage files in chat ,",
+      "page": 11,
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "importance_rank": 9
+    },
+    {
+      "text": "To complete and sign PDF forms, open the form in Acrobat and then select  E-Sign  from the",
+      "page": 2,
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "refined_text": "task to enable Acrobat Reader users to use the tools. enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool You can change a flat form to a fillable form by either using the Prepare Form tool or"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "refined_text": "An interactive form contains fields that you can select or fill in. interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand tool changes to an I-beam  when you can type text into the form field."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "refined_text": "You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "refined_text": "It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the 3. To reposition the text box to align it with the text field, select the textbox and hover To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "refined_text": "1. From the hamburger menu, select Preferences (Windows\u00ae), or select Acrobat Delete an entry from the Auto-Complete memory 2. In the Preferences dialog, select Forms as the preference category."
+    }
+  ]
+}
